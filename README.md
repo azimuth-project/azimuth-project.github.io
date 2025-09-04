@@ -1,5 +1,4 @@
-# azimuth-project.github.io
-climate pages
+# The Earth's Digital Twin
 
 <ul>
 <li><a href="https://github.com/orgs/azimuth-project/discussions/">Azimuth Project Discussion Forum</a></li>
