@@ -1,4 +1,4 @@
-# Azimuth Project: The Earth's Digital Twin
+#  ![](https://avatars.githubusercontent.com/u/2208129?size=25) AP: The Earth's Digital Twin 
 
 <ul>
 <li><a href="https://github.com/orgs/azimuth-project/discussions/">Azimuth Project Discussion Forum</a></li>
